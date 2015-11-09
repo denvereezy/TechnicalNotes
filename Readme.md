@@ -7,7 +7,7 @@
 * Useful algoritms using functions (lodash)
 * How does a web application work?
 * Others?
-* Using Qunit with python
+* Using Qunit with Python
 
 ## Keep updated
 
