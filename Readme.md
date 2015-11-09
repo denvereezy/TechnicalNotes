@@ -41,7 +41,7 @@ else{
 ```
 ### How to test with mocha
 * In your projects folder create a test folder
-* Running 'mocha' now should say "0 passing"
+* Running `mocha` now should say "0 passing"
 * Create a test like example below:
 
 ```javascript
@@ -53,7 +53,7 @@ describe("In the ferry kata", function(){
     });
 });
 ```
-* Now run 'mocha' agin and test should pass or fail
+* Now run `mocha` again and test should pass or fail
 * An example of a failing test:
 
 ```javascript
