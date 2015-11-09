@@ -54,13 +54,14 @@ describe("In the ferry kata", function(){
 });
 ```
 * Now run 'mocha' agin and test should pass or fail
-*An example of a failing test:
+* An example of a failing test:
+
 ```javascript
 var assert = require("assert");
 
 describe("In the ferry kata", function(){
-    it("should be able to create cars", function(){
-        assert.equal(1 == 2);
+    it("should fail", function(){
+        assert.equal("water", "car");
     });
 });
 ```
