@@ -61,7 +61,7 @@ var assert = require("assert");
 
 describe("In the ferry kata", function(){
     it("should fail", function(){
-        assert.equal("water", "car"); //water is not equel to car
+        assert.equal("water", "car"); //water is not equal to car
     });
 });
 ```
