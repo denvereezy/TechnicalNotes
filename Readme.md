@@ -33,7 +33,10 @@ console.log("Hello World");
 ```javascript
 // how to write an if statement
 if(2 > 5){
-console.log("Hello World");
+  console.log("Hello World");
+}
+else{
+  console.log("Hello!");
 }
 ```
 
