@@ -1,4 +1,4 @@
-# My Technical Notes
+# Denver's Technical Notes
 
 ## Workshops
 
