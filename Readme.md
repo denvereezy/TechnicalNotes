@@ -39,6 +39,21 @@ else{
   console.log("Hello!");
 }
 ```
+### How to test with mocha
+* In your projects folder create a test folder
+* Running mocha now should say "0 passing"
+* Create a test like example below:
+
+```javascript
+var assert = require("assert");
+
+describe("In the ferry kata", function(){
+    it("should be able to create cars", function(){
+        assert.equal("car", "car");
+    });
+});
+```
+* Now run mocha agin and test should pass or fail
 
 ### A note about something else
 add more here...
