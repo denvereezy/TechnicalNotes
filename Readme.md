@@ -28,6 +28,15 @@ Notes on things I learned & snippets of code that will make my life easier
 console.log("Hello World");
 ```
 
+### How to write an if statement
+
+```javascript
+// how to write an if statement
+if(2 > 5){
+console.log("Hello World");
+}
+```
+
 ### A note about something else
 add more here...
 
