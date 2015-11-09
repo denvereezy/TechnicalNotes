@@ -21,14 +21,14 @@ You need to create an upstream repository for your fork.
 
 Notes on things I learned & snippets of code that will make my life easier
 
-### How to print a string to the console
+### How to print a string to the console in Javascript
 
 ```javascript
 // how do I print to the console again?
 console.log("Hello World");
 ```
 
-### How to write an if statement
+### How to write an if statement in Javascript
 
 ```javascript
 // how to write an if statement
