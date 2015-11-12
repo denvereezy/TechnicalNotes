@@ -1,4 +1,4 @@
-# Denver's Technical Notes
+# Technical Notes
 
 ## Workshops
 
@@ -7,7 +7,6 @@
 * Useful algoritms using functions (lodash)
 * How does a web application work?
 * Others?
-* Using Qunit with Python
 
 ## Keep updated
 
@@ -21,50 +20,19 @@ You need to create an upstream repository for your fork.
 
 Notes on things I learned & snippets of code that will make my life easier
 
-### How to print a string to the console in Javascript
+### How to print a string to the console
 
 ```javascript
 // how do I print to the console again?
-console.log("Hello World");
 ```
 
-### How to write an if statement in Javascript
+### How to do...?
 
 ```javascript
-// how to write an if statement
-if(2 > 5){
-  console.log("Hello World");
-}
-else{
-  console.log("Hello!");
-}
+// how do to do
 ```
-### How to test with mocha
-* In your projects folder create a test folder
-* Running `mocha` now should say "0 passing"
-* Create a test like example below:
 
-```javascript
-var assert = require("assert");
 
-describe("In the ferry kata", function(){
-    it("should be able to create cars", function(){
-        assert.equal("car", "car");
-    });
-});
-```
-* Now run `mocha` again and test should pass or fail
-* An example of a failing test:
-
-```javascript
-var assert = require("assert");
-
-describe("In the ferry kata", function(){
-    it("should fail", function(){
-        assert.equal("water", "car"); //water is not equal to car
-    });
-});
-```
 ### A note about something else
 add more here...
 
@@ -72,4 +40,3 @@ add more here...
 
 * [Todo something useful](notes/my_file.md) A short description here
 * [Create a basic Express app](notes/my_file.md) How to get going with express
-* [Denver's notes ](denver.md) useful things
